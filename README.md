@@ -19,9 +19,9 @@ Before running this project, make sure you have the following installed:
 - Google Chrome browser
 
 ## Required Python packages
-pip install selenium
-pip install webdriver-manager
-pip install google-generativeai
+- pip install selenium
+- pip install webdriver-manager
+- pip install google-generativeai
 
 ## License
 This project is licensed under the MIT License.
