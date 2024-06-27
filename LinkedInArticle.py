@@ -69,7 +69,7 @@ def write_article(driver, title, content):
 
 
 def generate_article(prompt):
-    genai.configure(api_key="AIzaSyCaru0_iySRLpTcmmrl9nDRBwFSEvtnR-A")
+    genai.configure(api_key="****")
     generation_config = {"temperature": 0.9, "top_p": 1, "top_k": 1, "max_output_tokens": 2048}
     model = genai.GenerativeModel("gemini-pro", generation_config=generation_config)
     response = model.generate_content(prompt)
