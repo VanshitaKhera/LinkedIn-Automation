@@ -23,9 +23,6 @@ Before running this project, make sure you have the following installed:
 - pip install webdriver-manager
 - pip install google-generativeai
 
-## License
-This project is licensed under the MIT License.
-
 
 https://github.com/VanshitaKhera/LinkedIn-Automation/assets/154512400/ac6be4e4-158f-4b9e-8ec8-eb0e4b16b1bd
 
